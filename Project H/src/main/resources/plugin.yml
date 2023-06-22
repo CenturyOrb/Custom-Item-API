@@ -1,0 +1,10 @@
+name: Serverplugin
+version: '${project.version}'
+main: com.rosa.serverplugin.Main
+api-version: 1.19
+authors: [ _nitey ]
+commands:
+  pdc:
+  sell:
+
+
